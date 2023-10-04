@@ -12,4 +12,8 @@ transpose to have sample time be on y axis and frequency power be x
 
 256 samples defalt 100000 samples /256 390.625 *2 781   783 samples found out so 2x? 
 
+Once the STFT and moving transforms are run on the data that gives features the neuronetwork can be trained on and models saved. The models can be used to predict what new data after it has STFT and moving transform features calculated what imagined motor movement happened and its acuracy. 
+
+That can be used as a mouse or keyboard interface...
+
 eeg motor imagry orange python data mining neuronetwork 

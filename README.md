@@ -1,5 +1,7 @@
 # eegmotorimagryorangepy
 
+https://www.youtube.com/watch?v=XIowcswb1Hg
+
 Short Term Fourier transform can be applied to signals to make them more significant to unsupervised training.
 Lables may have to be coppied over if Time and number of records same... 
 Neuronetwork seems to be the best model.

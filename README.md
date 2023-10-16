@@ -1,5 +1,13 @@
 # eegmotorimagryorangepy
 
+Motor imaging EEG signal recognition is an important and challenging research problem in human-computer interaction. 
+
+A motor imagery-based brain-computer interface (MI-BCI) creates a path through which the brain interacts with the external environment by recording and processing electroencephalograph (EEG) signals made by imagining the movement of a particular limb.
+
+As the relevant rhythmic signals during motor imagery are divided into μ rhythm signal of 8–12 Hz and β rhythm signal of 13–30 Hz 
+
+Deep Learning (DL) models have gained popularity for EEG classification as they provide a solution for automatic extraction of spatio-temporal features in the signals. 
+
 https://www.youtube.com/watch?v=XIowcswb1Hg
 
 Short Term Fourier transform can be applied to signals to make them more significant to unsupervised training.

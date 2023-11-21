@@ -38,3 +38,12 @@ The Short Term Fourier Transform (STFT) is a method used to decompose a signal i
 
 References:
 ...
+Li, H., Ding, M., Zhang, R., & Xiu, C. (2022). Motor imagery EEG classification algorithm based on CNN-LSTM feature fusion network. Biomedical signal processing and control, 72, 103342.
+
+Wang, P., Jiang, A., Liu, X., Shang, J., & Zhang, L. (2018). LSTM-based EEG classification in motor imagery tasks. IEEE transactions on neural systems and rehabilitation engineering, 26(11), 2086-2095.
+
+Khademi, Z., Ebrahimi, F., & Kordy, H. M. (2022). A transfer learning-based CNN and LSTM hybrid deep learning model to classify motor imagery EEG signals. Computers in biology and medicine, 143, 105288.
+
+Garcia-Moreno, F. M., Bermudez-Edo, M., Rodríguez-Fórtiz, M. J., & Garrido, J. L. (2020, July). A CNN-LSTM deep Learning classifier for motor imagery EEG detection using a low-invasive and low-Cost BCI headband. In 2020 16th international conference on intelligent environments (IE) (pp. 84-91). IEEE.
+
+Xu, F., Xu, X., Sun, Y., Li, J., Dong, G., Wang, Y., ... & Yin, S. (2022). A framework for motor imagery with LSTM neural network. Computer methods and programs in biomedicine, 218, 106692.

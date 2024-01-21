@@ -44,6 +44,10 @@ CNN EEG signal clasification in python tensorflow keras.
 
 https://keras.io/examples/timeseries/eeg_signal_classification/
 
+Saving these biosignal models is important they can take a lot of time to train and smaller processor to use to predict. 
+model.save('path/to/location.keras')  # The file needs to end with the .keras extension
+
+https://keras.io/guides/serialization_and_saving/
 
 References:
 ...

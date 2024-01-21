@@ -49,6 +49,10 @@ model.save('path/to/location.keras')  # The file needs to end with the .keras ex
 
 https://keras.io/guides/serialization_and_saving/
 
+"Make Predictions with Keras"
+
+https://machinelearningmastery.com/how-to-make-classification-and-regression-predictions-for-deep-learning-models-in-keras/
+
 References:
 ...
 Li, H., Ding, M., Zhang, R., & Xiu, C. (2022). Motor imagery EEG classification algorithm based on CNN-LSTM feature fusion network. Biomedical signal processing and control, 72, 103342.

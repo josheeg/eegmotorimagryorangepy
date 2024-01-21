@@ -26,7 +26,7 @@ Datasets collected with labels are important for machene learning a button trigg
 https://docs.openbci.com/Cyton/CytonExternal/
 
 CNN EEG signal clasification in python tensorflow keras.
-
+The data set is from 15 subjects at the same time 500 samples long or 15 or 16 channel eeg.
 https://keras.io/examples/timeseries/eeg_signal_classification/
 
 Saving these biosignal models is important they can take a lot of time to train and smaller processor to use to predict. 

@@ -8,6 +8,10 @@ As the relevant rhythmic signals during motor imagery are divided into μ rhythm
 
 Deep Learning (DL) models have gained popularity for EEG classification as they provide a solution for automatic extraction of spatio-temporal features in the signals. 
 
+Convolutional neural network
+
+https://en.wikipedia.org/wiki/Convolutional_neural_network
+
 https://www.youtube.com/watch?v=XIowcswb1Hg
 
 Short Term Fourier transform can be applied to signals to make them more significant to unsupervised training.

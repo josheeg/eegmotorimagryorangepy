@@ -34,7 +34,10 @@ That can be used as a mouse or keyboard interface...
 eeg motor imagry orange python data mining neuronetwork 
 
 
-The Short Term Fourier Transform (STFT) is a method used to decompose a signal into short-duration frequency components. In EEG signal processing, this can be useful for highlighting the relevant and significant frequencies of motor imagery signals, making them more suitable for unsupervised Deep Learning training. This allows DL models to learn the complex and important spatio-temporal features of the EEG signals, leading to improved accuracy in motor imagery detection.
+The Short Term Fourier Transform (STFT) is a method used to decompose a signal into short-duration frequency components. In EEG signal processing, this can be useful for highlighting the relevant and significant frequencies of motor imagery signals, making them more suitable for unsupervised Deep Learning training. 
+
+Convolution Neuronetwork:
+This allows DL models to learn the EEG Signals directly and important spatio-temporal features of the EEG signals, leading to improved accuracy in motor imagery detection.
 
 Datasets collected with labels are important for machene learning a button trigger on the ganglion labled prog can do that D17.
 

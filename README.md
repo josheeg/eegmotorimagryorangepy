@@ -40,8 +40,10 @@ https://keras.io/guides/serialization_and_saving/
 
 # df to csv:
 "Working with data often requires you to move between different formats. One of the most common data transformations you may find yourself needing is to convert DataFrame to CSV. The Comma Separated Values (CSV) format is universally accepted and can be opened in numerous platforms like Excel, Google Sheets, and various database management systems. In Python, the Pandas library makes this process straightforward and efficient."
+
 pandas.DataFrame.to_csv
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_csv.html
+
 Convert DataFrame to CSV in Python [With Best Practices]
 https://www.golinuxcloud.com/convert-pandas-dataframe-to-csv/
 

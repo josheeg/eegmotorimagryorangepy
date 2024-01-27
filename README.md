@@ -1,5 +1,7 @@
 # eegmotorimagryorangepy
 
+
+
 Motor imaging EEG signal recognition is an important and challenging research problem in human-computer interaction. 
 
 A motor imagery-based brain-computer interface (MI-BCI) creates a path through which the brain interacts with the external environment by recording and processing electroencephalograph (EEG) signals made by imagining the movement of a particular limb.

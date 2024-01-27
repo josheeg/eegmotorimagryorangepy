@@ -3,7 +3,7 @@ EEG Motor Imagry Orange Py Is a space to Use data sets of eeg data labled data o
 # eegmotorimagrypy might be more apt or keras tensorflow csv ...
 
 
-Motor imaging EEG signal recognition is an important and challenging research problem in human-computer interaction. 
+ Motor imaging EEG signal recognition is an important and challenging research problem in human-computer interaction. 
 
 A motor imagery-based brain-computer interface (MI-BCI) creates a path through which the brain interacts with the external environment by recording and processing electroencephalograph (EEG) signals made by imagining the movement of a particular limb.
 
@@ -17,7 +17,7 @@ https://en.wikipedia.org/wiki/Convolutional_neural_network
 
 https://www.youtube.com/watch?v=XIowcswb1Hg
 
-Electroencephalogram Signal Classification for action identification
+# Electroencephalogram Signal Classification for action identification
 EEG Modeling of data and a CNN
 https://keras.io/examples/timeseries/eeg_signal_classification/
 
@@ -29,7 +29,7 @@ https://keras.io/examples/timeseries/eeg_signal_classification/
 
 # Datasets:
 
-keywords: keras eeg bci ml mi
+# keywords: keras eeg bci ml mi
 
 Datasets collected with labels are important for machene learning a button trigger on the ganglion labled prog can do that D17.
 
@@ -55,7 +55,7 @@ https://www.golinuxcloud.com/convert-pandas-dataframe-to-csv/
 
 https://machinelearningmastery.com/how-to-make-classification-and-regression-predictions-for-deep-learning-models-in-keras/
 
-Structured data classification from scratch
+# Structured data classification from scratch
 https://keras.io/examples/structured_data/structured_data_classification_from_scratch/
 
 # A Case Study in How to Avoid Methodological Errors when

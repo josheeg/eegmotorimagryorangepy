@@ -25,6 +25,13 @@ The Short Term Fourier Transform (STFT) is a method used to decompose a signal i
 Convolution Neuronetwork:
 This allows DL models to learn the EEG Signals directly and important spatio-temporal features of the EEG signals, leading to improved accuracy in motor imagery detection.
 
+Electroencephalogram Signal Classification for action identification
+https://keras.io/examples/timeseries/eeg_signal_classification/
+
+Datasets:
+
+keywords: keras eeg bci ml mi
+
 Datasets collected with labels are important for machene learning a button trigger on the ganglion labled prog can do that D17.
 
 https://docs.openbci.com/Cyton/CytonExternal/

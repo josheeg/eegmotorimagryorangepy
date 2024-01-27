@@ -14,6 +14,10 @@ https://en.wikipedia.org/wiki/Convolutional_neural_network
 
 https://www.youtube.com/watch?v=XIowcswb1Hg
 
+Electroencephalogram Signal Classification for action identification
+EEG Modeling of data and a CNN
+https://keras.io/examples/timeseries/eeg_signal_classification/
+
 For less acurat rnn Short Term Fourier transform can be applied to signals to make them more significant to unsupervised training.
 
 The Short Term Fourier Transform (STFT) is a method used to decompose a signal into short-duration frequency components. In EEG signal processing, this can be useful for highlighting the relevant and significant frequencies of motor imagery signals, making them more suitable for unsupervised Deep Learning training. 

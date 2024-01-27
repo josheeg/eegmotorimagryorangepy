@@ -1,5 +1,6 @@
 # eegmotorimagryorangepy
-
+EEG Motor Imagry Orange Py Is a space to Use data sets of eeg data labled data of imagined mucle movements and attempt use orage to do some tasks that would just have more problems in keras python tensorflow coding. Using orange could make the code smaller. But it may be more cumbersom. 
+# eegmotorimagrypy might be more apt or keras tensorflow csv ...
 
 
 Motor imaging EEG signal recognition is an important and challenging research problem in human-computer interaction. 

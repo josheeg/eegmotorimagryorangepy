@@ -45,12 +45,16 @@ model.save('path/to/location.keras')  # The file needs to end with the .keras ex
 
 https://keras.io/guides/serialization_and_saving/
 
-"Make Predictions with Keras"
+Make Predictions with Keras:
 
 https://machinelearningmastery.com/how-to-make-classification-and-regression-predictions-for-deep-learning-models-in-keras/
 
 Structured data classification from scratch
 https://keras.io/examples/structured_data/structured_data_classification_from_scratch/
+
+A Case Study in How to Avoid Methodological Errors when
+Evaluating Machine Learning Methods for Time Series Forecasting.
+https://machinelearningmastery.com/how-to-predict-whether-eyes-are-open-or-closed-using-brain-waves/
 
 References:
 ...

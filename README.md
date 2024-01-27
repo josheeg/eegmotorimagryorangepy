@@ -38,6 +38,9 @@ https://keras.io/guides/serialization_and_saving/
 
 https://machinelearningmastery.com/how-to-make-classification-and-regression-predictions-for-deep-learning-models-in-keras/
 
+Structured data classification from scratch
+https://keras.io/examples/structured_data/structured_data_classification_from_scratch/
+
 References:
 ...
 Li, H., Ding, M., Zhang, R., & Xiu, C. (2022). Motor imagery EEG classification algorithm based on CNN-LSTM feature fusion network. Biomedical signal processing and control, 72, 103342.

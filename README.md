@@ -18,10 +18,6 @@ Electroencephalogram Signal Classification for action identification
 EEG Modeling of data and a CNN
 https://keras.io/examples/timeseries/eeg_signal_classification/
 
-For less acurat rnn Short Term Fourier transform can be applied to signals to make them more significant to unsupervised training.
-
-The Short Term Fourier Transform (STFT) is a method used to decompose a signal into short-duration frequency components. In EEG signal processing, this can be useful for highlighting the relevant and significant frequencies of motor imagery signals, making them more suitable for unsupervised Deep Learning training. 
-
 Convolution Neuronetwork:
 This allows DL models to learn the EEG Signals directly and important spatio-temporal features of the EEG signals, leading to improved accuracy in motor imagery detection.
 
@@ -44,6 +40,13 @@ Saving these biosignal models is important they can take a lot of time to train 
 model.save('path/to/location.keras')  # The file needs to end with the .keras extension
 
 https://keras.io/guides/serialization_and_saving/
+
+df to csv:
+"Working with data often requires you to move between different formats. One of the most common data transformations you may find yourself needing is to convert DataFrame to CSV. The Comma Separated Values (CSV) format is universally accepted and can be opened in numerous platforms like Excel, Google Sheets, and various database management systems. In Python, the Pandas library makes this process straightforward and efficient."
+pandas.DataFrame.to_csv
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_csv.html
+Convert DataFrame to CSV in Python [With Best Practices]
+https://www.golinuxcloud.com/convert-pandas-dataframe-to-csv/
 
 Make Predictions with Keras:
 

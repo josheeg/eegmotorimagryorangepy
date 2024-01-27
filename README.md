@@ -1,7 +1,8 @@
 # eegmotorimagryorangepy
 EEG Motor Imagry Orange Py Is a space to Use data sets of eeg data labled data of imagined mucle movements and attempt use orage to do some tasks that would just have more problems in keras python tensorflow coding. Using orange could make the code smaller. But it may be more cumbersom. 
-# eegmotorimagrypy might be more apt or keras tensorflow csv ...
+# eegmotorimagrypy might be more apt or keras tensorflow csv ... eegmlbci
 
+# keywords: keras eeg bci ml mi
 
  Motor imaging EEG signal recognition is an important and challenging research problem in human-computer interaction. 
 
@@ -27,13 +28,6 @@ This allows DL models to learn the EEG Signals directly and important spatio-tem
 Electroencephalogram Signal Classification for action identification
 https://keras.io/examples/timeseries/eeg_signal_classification/
 
-# Datasets:
-
-# keywords: keras eeg bci ml mi
-
-Datasets collected with labels are important for machene learning a button trigger on the ganglion labled prog can do that D17.
-
-https://docs.openbci.com/Cyton/CytonExternal/
 
 # CNN EEG signal clasification in python tensorflow keras.
 The data set is from 15 subjects at the same time 500 samples long or 15 or 16 channel eeg.
@@ -61,6 +55,14 @@ https://keras.io/examples/structured_data/structured_data_classification_from_sc
 # A Case Study in How to Avoid Methodological Errors when
 Evaluating Machine Learning Methods for Time Series Forecasting.
 https://machinelearningmastery.com/how-to-predict-whether-eyes-are-open-or-closed-using-brain-waves/
+
+# Datasets:
+
+
+Datasets collected with labels are important for machene learning a button trigger on the ganglion labled prog can do that D17.
+
+https://docs.openbci.com/Cyton/CytonExternal/
+
 
 # References:
 ...
